@@ -8,7 +8,7 @@ This is a simple React application built with Vite that generates random Chuck N
 
 ## Live Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](https://chuck-norris-jokes-pink.vercel.app/).
 
 ## Features
 
